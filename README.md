@@ -10,3 +10,5 @@
 ## Future Update
 ### Give the time for play and scores
 ### Game over.
+## Click the link to view the project
+### https://masaniprakash.github.io/Pacman_moving_random_direction_week7/
